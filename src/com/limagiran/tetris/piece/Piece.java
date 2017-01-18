@@ -36,7 +36,7 @@ public class Piece implements Serializable {
     }
 
     /**
-     * Pinta a cobra
+     * Pinta a peça
      *
      * @param g2 Graphics2D
      */
